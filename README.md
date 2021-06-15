@@ -3,6 +3,7 @@
 Serve para auxiliar pequenos investidores de fundos imobiliários a calcular quanto você teria de dividendos caso investisse um determinado valor
 em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa irá calcular quantas cotas você conseguiria comprar dos diferentes FIIs exsitentes na bolsa e quanto isso renderia para você em dividendos mensais (considerando o último dividendo, dividendo dos últimos 3 meses, 6 meses, etc).
 
+<b></b>
 
 
 <b>Como utilizar?</b>
@@ -24,12 +25,12 @@ análise do seu aporte.
 Obs.: Este programa pode te ajudar a levantar uma série de informações importantes para analisar FIIs, porém, ele não faz nenhuma recomendação de compra ou venda. Você deve tomar suas próprias decisões para investir.
   
   
+  <b></b>
   
-  
-  <b>Quem sou eu?</b>
+<b>Quem sou eu?</b>
   
 Sou um pequeno investidor em FIIs e profissional de TI. Criei este programa para me ajudar em meus aportes, depois de sofrer bastante em criar planilhas do zero, pegando informações do fundsexplorer e statusinvest manualmente.
   
-
+<b></b>
 Se precisar de alguma informação, entre em contato: <b>bacaseiro@gmail.com</b>
   
