@@ -1,7 +1,7 @@
 <b>Para que serve este programa?</b>
 
 Serve para auxiliar pequenos investidores de fundos imobiliários a calcular quanto você teria de dividendos caso investisse um determinado valor
-em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa irá calcular quantas cotas você conseguiria comprar dos diferentes FIIs exsitentes na bolsa e quanto isso renderia para você em dividendos mensais (considerando o último dividendo, dividendo dos últimos 3 meses, 6 meses, etc).
+em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa irá calcular quantas cotas você conseguiria comprar dos diferentes FIIs exsitentes na bolsa e quanto isso lhe em dividendos mensais (considerando o último dividendo, dividendo dos últimos 3 meses, 6 meses, etc).
 
 <h1> </h1>
 
