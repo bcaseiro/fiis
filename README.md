@@ -9,7 +9,7 @@ em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa ir�
 
 1) Fazer o download do arquivo AnalisarFiis.zip em seu computador (não funciona em telefone, tablets, Linux e Mac. Só Windows).
 
-2) Descompactar o arquivo AnalisarFiis.zip, deverão ser extraídos dois arquivos: AnalisarFiis.exe e Lista_de_fiis.txt.
+2) Descompactar o arquivo AnalisarFiisBcaseiro.zip, deverão ser extraídos dois arquivos: AnalisarFiis.exe e Lista_de_fiis.txt.
 
 3) Executar (dois cliques) no arquivo AnalisarFiis.exe. 
 
