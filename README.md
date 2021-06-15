@@ -17,7 +17,7 @@ em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa ir�
 4) O programa irá te perguntar quanto você gostaria de investir para efeito de cáculo/estimativas. Digite o valor sem vírgulas ou pontos.
 Por exemplo, se você gostaria de saber quanto renderia R$ 1.000,00 aplicados, digite: 1000 e pressione a tecla << ENTER >> .
 
-Observe que o programa comecará a obter as cotas atuais, valor patrimonial, entre outras informações dos Fiis que estão no arquivo Lista_de_fiis.txt.
+Observe que o programa começará a obter as cotas atuais, valor patrimonial, entre outras informações dos Fiis que estão no arquivo Lista_de_fiis.txt.
 
 5) Após a conclusão, será gerado um arquivo chamado Lista_Fiis.xls. Abra este arquivo e nele você terá os dados principais para te ajudar na 
 análise do seu aporte.
