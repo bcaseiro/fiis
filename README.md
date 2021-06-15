@@ -25,7 +25,9 @@ Obs.: Este programa pode te ajudar a levantar uma série de informações import
   
   
   
+  
   <b>Quem sou eu?</b>
+  
 Sou um pequeno investidor em FIIs e profissional de TI. Criei este programa para me ajudar em meus aportes, depois de sofrer bastante em criar planilhas do zero, pegando informações do fundsexplorer e statusinvest manualmente.
   
 
