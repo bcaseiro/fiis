@@ -1,11 +1,11 @@
-Para que serve este programa?
+<b>Para que serve este programa?</b>
 
 Serve para auxiliar pequenos investidores de fundos imobiliários a calcular quanto você teria de dividendos caso investisse um determinado valor
 em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa irá calcular quantas cotas você conseguiria comprar dos diferentes FIIs exsitentes na bolsa e quanto isso renderia para você em dividendos mensais (considerando o último dividendo, dividendo dos últimos 3 meses, 6 meses, etc).
 
 
 
-Como utilizar?
+<h1>Como utilizar?</h1>
 
 1) Fazer o download do arquivo AnalisarFiis.zip em seu computador (não funciona em telefone, tablets, Linux e Mac. Só Windows).
 
