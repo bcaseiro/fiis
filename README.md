@@ -5,7 +5,7 @@ em diversos FIIs da Bovespa. Você digita o valor do seu aporte e o programa ir�
 
 
 
-<h1>Como utilizar?</h1>
+<b>Como utilizar?</b>
 
 1) Fazer o download do arquivo AnalisarFiis.zip em seu computador (não funciona em telefone, tablets, Linux e Mac. Só Windows).
 
@@ -25,9 +25,9 @@ Obs.: Este programa pode te ajudar a levantar uma série de informações import
   
   
   
-Quem sou eu?
+  <b>Quem sou eu?</b>
 Sou um pequeno investidor em FIIs e profissional de TI. Criei este programa para me ajudar em meus aportes, depois de sofrer bastante em criar planilhas do zero, pegando informações do fundsexplorer e statusinvest manualmente.
   
 
-Se precisar de alguma informação, entre em contato: bacaseiro@gmail.com
+Se precisar de alguma informação, entre em contato: <b>bacaseiro@gmail.com</b>
   
