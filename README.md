@@ -22,10 +22,15 @@ Observe que o programa começará a obter as cotas atuais, valor patrimonial, en
 5) Após a conclusão, será gerado um arquivo chamado Lista_Fiis.xls. Abra este arquivo e nele você terá os dados principais para te ajudar na 
 análise do seu aporte.
 
+<h1> </h1>
+
 Obs1: Este programa pode te ajudar a levantar uma série de informações importantes para analisar FIIs, porém, ele não faz nenhuma recomendação de compra ou venda. Você deve tomar suas próprias decisões para investir.
 
 Obs2: Este programa foi feito em python. Se desejar inspecionar ou utilizar o código fonte, basta acessar o arquivo AnalisaFiis.py .
 
+Obs3: O arquivo Lista_Fiis_Exemplo_15-6-2021.xls é um exemplo do que este programa irá gerar em cada execução.
+
+<h1> </h1>
 <b>Quem sou eu?</b>
   
 Sou um pequeno investidor em FIIs e profissional de TI. Criei este programa para me ajudar em meus aportes, depois de sofrer bastante em criar planilhas do zero, pegando informações do fundsexplorer e statusinvest manualmente.
