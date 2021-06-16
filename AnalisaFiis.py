@@ -31,7 +31,6 @@ try:
     sheet2.write(8, 11, 'Liquidez', style2)
     primeiro_fii = 9
 
-
     lista_fiis = open('lista_de_fiis.txt','r')
 
 
